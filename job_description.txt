@@ -1,0 +1,6 @@
+We are seeking a Python Developer with experience in data analysis and natural language processing.
+Responsibilities include working with text data, building ML models, and developing scalable APIs.
+Requirements:
+- Strong Python skills
+- Knowledge of Scikit-learn, Pandas, and NLTK
+- Experience with resume screening tools is a plus
